@@ -1,0 +1,34 @@
+.root{
+    background-color: aliceblue;
+}
+.heading{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size: x-large;
+    font-weight: bolder;
+    color: cornflowerblue;
+    justify-content: center;
+    margin-bottom: -1rem;
+}
+.container{
+    margin-top: 40px;
+    background-color: cadetblue;
+    width: 100%;
+}
+form{
+    margin-top: 40px;
+    display: inline;
+}
+.searchbox{
+    width: 400px;
+    border-radius: 10px;
+    border: 2px #fcfc;
+    
+}
+button{
+    background-color: lightcyan;
+    border-radius: 7px;
+    border: 2px #fcfc;
+    margin-left: 1rem;
+    width: 80px;
+}
